@@ -1,0 +1,3 @@
+[submodule "File_Extractor"]
+	path = File_Extractor
+	url = ../deadbeef_plugins/vfs_fx/File_Extractor
